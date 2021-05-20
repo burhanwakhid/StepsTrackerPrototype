@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1084732206900",
+    "firebase_url": "https://stepstrackerprototype-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stepstrackerprototype",
+    "storage_bucket": "stepstrackerprototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084732206900:android:8aed767594764fa9787f61",
+        "android_client_info": {
+          "package_name": "com.example.steps_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084732206900-7j6pbnomm8g80dbutvrguklk70uejtme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tppjA7lyJKUiRMetCUp8cX1dnRvuKD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084732206900-7j6pbnomm8g80dbutvrguklk70uejtme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
